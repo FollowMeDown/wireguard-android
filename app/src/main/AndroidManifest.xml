@@ -26,6 +26,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="UnusedAttribute">
 
+        <activity android:name=".activity.TunnelToggleActivity" android:theme="@style/NoBackgroundTheme"/>
         <activity android:name=".activity.MainActivity">
 
             <intent-filter>
